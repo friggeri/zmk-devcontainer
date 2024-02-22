@@ -1,0 +1,9 @@
+[submodule "zmk"]
+	path = zmk
+	url = git@github.com:friggeri/zmk.git
+[submodule "ixkb-config"]
+	path = ixkb-config
+	url = git@github.com:friggeri/ixkb-config.git
+[submodule "zmk-analog-joystick-driver"]
+	path = zmk-analog-joystick-driver
+	url = git@github.com:friggeri/zmk-analog-joystick-driver.git
