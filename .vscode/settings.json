@@ -1,5 +1,6 @@
 {
   "files.associations": {
+    "*.css": "postcss",
     "*.overlay": "dts",
     "*.keymap": "dts",
     "sensor.h": "c",
@@ -7,7 +8,9 @@
     "compare": "c",
     "array": "c",
     "string_view": "c",
-    "initializer_list": "c"
+    "initializer_list": "c",
+    "string": "c",
+    "numeric": "c"
   },
   "[c]": {
     "editor.formatOnSave": true
