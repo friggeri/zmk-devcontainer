@@ -7,3 +7,6 @@
 [submodule "zmk-analog-joystick-driver"]
 	path = zmk-analog-joystick-driver
 	url = git@github.com:friggeri/zmk-analog-joystick-driver.git
+[submodule "zmk-joystick"]
+	path = zmk-joystick
+	url = git@github.com:friggeri/zmk-joystick.git
