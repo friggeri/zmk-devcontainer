@@ -10,7 +10,12 @@
     "string_view": "c",
     "initializer_list": "c",
     "string": "c",
-    "numeric": "c"
+    "numeric": "c",
+    "event_manager.h": "c",
+    "behavior.h": "c",
+    "hid.h": "c",
+    "input-event-codes.h": "c",
+    "device.h": "c"
   },
   "[c]": {
     "editor.formatOnSave": true
