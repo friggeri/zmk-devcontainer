@@ -19,7 +19,8 @@
         "ms-python.python",
         "ms-vscode.cpptools",
         "plorefice.devicetree",
-        "twxs.cmake"
+        "twxs.cmake",
+        "xaver.clang-format"
       ],
       "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
