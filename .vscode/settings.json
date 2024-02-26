@@ -15,7 +15,9 @@
     "behavior.h": "c",
     "hid.h": "c",
     "input-event-codes.h": "c",
-    "device.h": "c"
+    "device.h": "c",
+    "hid_usage_pages.h": "c",
+    "mouse.h": "c"
   },
   "[c]": {
     "editor.formatOnSave": true
