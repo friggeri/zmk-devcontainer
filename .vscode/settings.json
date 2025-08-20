@@ -27,7 +27,9 @@
     "log.h": "c",
     "adc.h": "c",
     "battery_common.h": "c",
-    "battery_state_changed.h": "c"
+    "battery_state_changed.h": "c",
+    "kernel.h": "c",
+    "types.h": "c"
   },
   "[c]": {
     "editor.formatOnSave": true
