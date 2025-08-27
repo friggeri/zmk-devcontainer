@@ -29,7 +29,10 @@
     "battery_common.h": "c",
     "battery_state_changed.h": "c",
     "kernel.h": "c",
-    "types.h": "c"
+    "types.h": "c",
+    "input_analog_joystick.h": "c",
+    "input_processor.h": "c",
+    "input.h": "c"
   },
   "[c]": {
     "editor.formatOnSave": true
